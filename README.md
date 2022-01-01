@@ -4,9 +4,9 @@ A remasterd of dpemotes in RageUI v2 by ach#9690
 OLD WORK AND NOT FINISH
 
 If you want to continue:
-[ ] Shareds Emotes
-[ ] Littles bugs
-[X] ...
+- [ ] Shareds Emotes
+- [ ] Littles bugs
+- [X] ...
 
 ## Crédit
 
